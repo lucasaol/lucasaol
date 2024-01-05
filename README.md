@@ -1,5 +1,5 @@
 ### Olá! Eu sou Lucas 👋
-<a href="https://github.com/lucasaol">
+<a href="linkedin.com/in/luucasaol/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
