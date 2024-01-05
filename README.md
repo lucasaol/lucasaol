@@ -1,7 +1,6 @@
 ### Olá! Eu sou Lucas 👋
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luucasaol/)
 
 
 ### 🚧 Ainda estou organizando e disponibilizando meu portfólio aqui, em breve estará finalizado 😅
