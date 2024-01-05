@@ -1,9 +1,8 @@
 ### Olá! Eu sou Lucas 👋
-<div>
-  <a href="https://www.linkedin.com/in/luucasaol" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+<a href="https://github.com/lucasaol">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
 
 💬 Ainda estou organizando e disponibilizando meu portfólio aqui, em breve estará finalizado 😅
 
