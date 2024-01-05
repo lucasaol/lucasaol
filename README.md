@@ -5,7 +5,7 @@
 💬 Estou organizando e disponibilizando meu portfólio aqui 😄
 
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
+  <a href="https://github.com/lucasaol">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasaol&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 <!--
