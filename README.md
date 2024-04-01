@@ -3,7 +3,7 @@
 
 
 ### Tenho utilizado mais o GitLab para armazenar o código dos projetos, acesse por aqui!
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/lucasaol/groups)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/users/lucasaol/groups)
 
 
 🚧🚧🚧 Ainda estou organizando e disponibilizando meu portfólio aqui, em breve estará finalizado 🚧🚧🚧
